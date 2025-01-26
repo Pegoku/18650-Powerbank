@@ -2,6 +2,8 @@
 
 This project is a custom case designed to house a USB-C powerbank board and an 18650 battery holder.
 
+![Image](image.png)
+
 ## Components
 
 1. **USB-C Powerbank Board**
